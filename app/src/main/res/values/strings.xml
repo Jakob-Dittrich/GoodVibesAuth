@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MD2UA_Prototype</string>
+    <string-array name="vibration_array">
+        <item>Vibration 3-1</item>
+        <item>Vibration 2</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
